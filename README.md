@@ -1,5 +1,8 @@
 ### Islamabad, Pakistan Air Quality Dataset
 
+![air](https://github.com/0diraf/pk-airqlty-proj/assets/139581253/b75a7741-33da-4429-82ef-f43823301418)
+
+
 In this project, I wanted to analyze the Air Quality trends in Pakistan. There is a relative unavailability of complete historical data on air quality in different cities of Pakistan. The Pakistan Environment Protection Agency publishes the air quality data on its official website. However, I realized that it is not readily available for analytical purposes due to poor data reporting. 
 
 The data is published on the EPA website in .pdf format. Some of these pdf files contain the data in table format, while some contain just images of this table format. This led me to devote a significant chunk of this analytical project to scraping, extracting, reading, and cleaning this data. I have also made the data files I extracted [available on Kaggle](https://www.kaggle.com/datasets/diraf0/islamabad-pakistan-air-quality-data) so that there is an easier access to this dataset.
