@@ -1,8 +1,9 @@
-### Islamabad, Pakistan Air Quality Dataset
 
 ![air](https://github.com/0diraf/pk-airqlty-proj/assets/139581253/b75a7741-33da-4429-82ef-f43823301418)
 
-### :white_check_mark: Objectives
+# Islamabad, Pakistan Air Quality Dataset
+
+## :white_check_mark: Objectives
 
 * Explore Islamabad, Pakistan air quality data available on [EPA website](https://environment.gov.pk/Detail/ZjU5NDM3YjItNTdiOS00NTk5LWExYzUtMjI2NzE5YjdlOGM5)
 * Scrape the data in .pdf format from the website
